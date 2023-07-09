@@ -31,24 +31,28 @@ and uses the revealed preimage to settle the proxy invoice.
 This ensures that you don't need to trust lnproxy relays
 with your payments.
 
-## Tools
+## Code
 
-### [lnproxy-relay](https://github.com/lnproxy/lnproxy-relay)
+### https://github.com/lnproxy/lnproxy-relay
 
 A minimalist lnproxy relay.
 
-### [lnproxy-webui2](https://github.com/lnproxy/lnproxy-webui2)
+### https://github.com/lnproxy/lnproxy-webui2
 
 A plain javascript interface for lnproxy relays,
 hosted at https://lnproxy.org and http://dx7pn6ehykq6cadce4bjbxn5tf64z7e3fufpxgxce7n4f5eja476cpyd.onion
 
-### [lnproxy-address](https://github.com/lnproxy/lnproxy-address)
+### https://github.com/lnproxy/lnproxy-address
 
 A minimalist lightning address bridge that can, optionally,
 wrap invoices with an lnproxy relay and verify that they will be relayed securely.
 
-### [lnproxy-spec](https://github.com/lnproxy/lnproxy-spec)
+### https://github.com/lnproxy/lnproxy-spec
 
 Draft spec for lnproxy relays and clients,
 includes scripts to test relay implementations for spec compliance and common issues.
+
+### https://github.com/niteshbalusu11/lnproxy-ts
+
+@niteshbalusu11's implementation of an lnproxy relay in typescript.
 
