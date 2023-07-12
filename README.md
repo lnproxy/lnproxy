@@ -47,7 +47,7 @@ hosted at https://lnproxy.org and http://dx7pn6ehykq6cadce4bjbxn5tf64z7e3fufpxgx
 A minimalist lightning address bridge that can, optionally,
 wrap invoices with an lnproxy relay and verify that they will be relayed securely.
 
-### https://github.com/lnproxy/lnproxy-spec
+### https://github.com/lnproxy/spec
 
 Draft spec for lnproxy relays and clients,
 includes scripts to test relay implementations for spec compliance and common issues.
@@ -56,3 +56,11 @@ includes scripts to test relay implementations for spec compliance and common is
 
 @niteshbalusu11's implementation of an lnproxy relay in typescript.
 
+### https://github.com/lnproxy/spec
+
+Draft spec for lnproxy relays and clients,
+includes scripts to test relay implementations for spec compliance and common issues.
+
+### https://github.com/lnproxy/lnproxy-client
+
+golang client for requesting and validating proxy invoices from relays
