@@ -41,16 +41,12 @@ A minimalist lnproxy relay.
 
 A plain javascript interface for lnproxy relays,
 hosted at https://lnproxy.org and http://dx7pn6ehykq6cadce4bjbxn5tf64z7e3fufpxgxce7n4f5eja476cpyd.onion
+.
 
 ### https://github.com/lnproxy/lnproxy-address
 
 A minimalist lightning address bridge that can, optionally,
 wrap invoices with an lnproxy relay and verify that they will be relayed securely.
-
-### https://github.com/lnproxy/spec
-
-Draft spec for lnproxy relays and clients,
-includes scripts to test relay implementations for spec compliance and common issues.
 
 ### https://github.com/niteshbalusu11/lnproxy-ts
 
@@ -63,4 +59,4 @@ includes scripts to test relay implementations for spec compliance and common is
 
 ### https://github.com/lnproxy/lnproxy-client
 
-golang client for requesting and validating proxy invoices from relays
+Go client for requesting and validating proxy invoices from relays.
