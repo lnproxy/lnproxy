@@ -60,3 +60,7 @@ includes scripts to test relay implementations for spec compliance and common is
 ### https://github.com/lnproxy/lnproxy-client
 
 Go client for requesting and validating proxy invoices from relays.
+
+### https://github.com/shoupn/lnproxy
+
+@shoupn's implementation of an lnproxy relay in C#.
